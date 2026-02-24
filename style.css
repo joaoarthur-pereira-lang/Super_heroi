@@ -1,0 +1,42 @@
+body {
+background-color:black;
+color: white;
+background-image: url("assets/Imagem\ 3.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+img {
+
+    height: 300px;
+    border: 5px solid white;
+    border-radius: 30px;
+}
+
+h1{
+    font-family: "sagoe UI, Tahoma, Geneva, Verdana, sans-serif";
+    padding: 20px;
+    background-color: rgb(2, 2, 105);
+    color:rgb(168, 124, 3);
+}
+p{
+    color: rgb(238,183,18);
+}
+
+footer p{
+    color: white;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
