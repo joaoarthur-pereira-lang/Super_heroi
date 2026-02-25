@@ -1,7 +1,7 @@
 body {
-background-color:black;
+background-color:rgb(0, 0, 0);
 color: white;
-background-image: url("assets/Imagem\ 3.jpg");
+background-image: url("assets/Imagem\ 7.jpg");
 background-repeat: no-repeat;
 background-size: cover;
 
@@ -16,8 +16,8 @@ img {
 
 h1{
     font-family: "sagoe UI, Tahoma, Geneva, Verdana, sans-serif";
-    padding: 20px;
-    background-color: rgb(2, 2, 105);
+    padding: 10px;
+    background-color: rgba(2, 2, 105, 0.678);
     color:rgb(168, 124, 3);
 }
 p{
@@ -39,4 +39,9 @@ div{
     align-items: center;
     justify-content: center;
 
+}
+h2{
+    border:15px solid transparent;
+    background-color: rgba(163, 12, 1, 0.747);
+    color: rgba(238, 183, 18, 0.678);
 }
